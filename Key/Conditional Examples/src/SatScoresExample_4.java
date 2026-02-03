@@ -1,9 +1,11 @@
 public class SatScoresExample_4 {
     public static void main(String[] args) {
+		// must comment out the invalid test case
 //		System.out.println("200: " + rating(200));
 		System.out.println("600: " + rating(600));
 		System.out.println("1000: " + rating(1000));
 		System.out.println("1400: " + rating(1400));
+		// must comment out the invalid test case
 //		System.out.println("1800: " + rating(1800));
     }
 

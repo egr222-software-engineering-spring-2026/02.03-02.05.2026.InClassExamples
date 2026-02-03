@@ -4,7 +4,8 @@ public class SatScoresExample_1 {
     public static void main(String[] args) {
 //		System.out.println("200: " + rating(200));
     }
-	
+
+	// Will NOT compile because not all paths return a value
 //	public static String rating (int totalSAT) {
 //		if (totalSAT > 400 && totalSAT < 800) {
 //			return "not competitive";
